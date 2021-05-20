@@ -1,2 +1,2 @@
-# kadai
+# SecondTestcode
 練習もかねて
